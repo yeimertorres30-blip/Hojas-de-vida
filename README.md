@@ -11,7 +11,7 @@
 
 ## 🌐 Language / Idioma
 - 🇪🇸 [Español](#-español)
-- EN [English](#-english)
+- 🇬🇧 [English](#-english)
 
 ---
 
